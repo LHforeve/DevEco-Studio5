@@ -3,6 +3,12 @@
     "pages/Index",
     "pages/chapter/Page",
     "pages/chapter1/Page1",
-    "pages/chapter4/Page2"
+    "pages/chapter4/Page2",
+    "pages/chapter5/RelativeContainerPage",
+    "pages/chapter5/work",
+    "pages/chapterwork/PageWork",
+    "pages/chapterwork/PageWork2",
+    "pages/chapterwork/PageWork3",
+    "pages/chapterwork/PageWork4"
   ]
 }

@@ -24,7 +24,10 @@ struct Index {
           url: 'pages/chapter4/Page2'
         })
       })
-      Button("第4章 ArkUI").enabled(false).width('100%').onClick(()=>{
+      Button("第4章 音乐app作业").enabled(true).width('100%').onClick(()=>{
+        router.pushUrl({
+          url: 'pages/chapterwork/PageWork'
+        })
       })
       Button("第5章 ArkUI").enabled(false).width('100%').onClick(()=>{
         router.pushUrl({
